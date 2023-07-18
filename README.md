@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Install react dependencies
+
+### `npm install react-icons --save`
+Install react icons library dependencies
+
+### `npm install --save hex-to-rgba`
+Install hex-to-rgba library dependencies
+
+### `npm install uuid`
+Install uuid library dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
